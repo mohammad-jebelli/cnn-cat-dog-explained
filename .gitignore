@@ -1,0 +1,15 @@
+# Datasets and models (too large for git)
+archive/
+Dogs-vs-Cats/
+*.keras
+*.h5
+
+# Generated outputs
+explain_output/
+training_history.png
+model.png
+
+# Python
+venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,9 @@
+# Core dependencies
+# GPU note: on Linux, "tensorflow[and-cuda]" pulls compatible CUDA/cuDNN.
+# If TF cannot find the GPU, pin a known-good combo, e.g.:
+#     pip install "tensorflow[and-cuda]==2.18.*"
+tensorflow>=2.16
+scipy            # required by ImageDataGenerator augmentation
+matplotlib
+numpy
+pillow
