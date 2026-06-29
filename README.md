@@ -4,7 +4,7 @@ A small, education-focused Convolutional Neural Network that classifies images a
 
 It comes with a unique **explainer tool** that takes any image and produces an HTML report showing the journey through every layer: the feature maps, the shapes, and what each layer did, all the way to the final decision.
 
-> This repo is the companion code for the blog post: *[An image's journey through a CNN]* (link to your blog).
+> This repo is the companion code for the blog post: **[An Image's Journey Through a CNN](https://mohammadjebelli.com/an-images-journey-through-a-cnn/)**.
 
 ---
 
